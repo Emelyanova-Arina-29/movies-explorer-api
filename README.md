@@ -5,11 +5,11 @@
 
 ## Ссылки на проект
 
-IP 84.201.176.114
+IP 51.250.20.172
 
-Frontend https://mesto.arina.nomoredomains.rocks
+Frontend https://movies.arina.nomoreparties.sbs
 
-Backend https://api.mesto.arina.nomoredomains.rocks
+Backend https://api.movies.arina.nomoreparties.sbs
 
 ## Директории
 
